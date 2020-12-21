@@ -13,7 +13,7 @@ Spatial Precipitation Downscaling is one of the most important problems in the g
 <img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
 <img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 20%;" />
 
-### Low Resolution Precipitation Mapss
+### Low Resolution Precipitation Maps
 <img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 20%;" />
 <img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 20%;" />
 <img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 20%;" />
