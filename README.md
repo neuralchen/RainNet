@@ -9,14 +9,14 @@ Spatial Precipitation Downscaling is one of the most important problems in the g
 ## Samples in RainNet
 
 ### High Resolution Precipitation Maps
-<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 50%;" />
-<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 50%;" />
-<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 50%;" />
+<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 30%;" />
+<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 30%;" />
+<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 30%;" />
 
 ### Low Resolution Precipitation Mapss
-<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 50%;" />
-<img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 50%;" />
-<img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 50%;" />
+<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 30%;" />
+<img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 30%;" />
+<img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 30%;" />
 
 
 
