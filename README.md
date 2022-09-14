@@ -1,5 +1,8 @@
 # RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling
-Xuanhong Chen, Kairui Feng, Naiyuan Liu, Yifan Lu, Zhengyan Tong, Bingbing Ni, Ziang Liu, Ning Lin
+# Accepted by NeurIPS 2022
+Xuanhong Chen*, Kairui Feng*, Bingbing Ni, Naiyuan Liu, Yifan Lu, Ziang Liu, Zhengyan Tong
+
+* equal contribution
 
 [[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700)
 
