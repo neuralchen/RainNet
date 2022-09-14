@@ -2,7 +2,7 @@
 # Accepted by NeurIPS 2022
 Xuanhong Chen*, Kairui Feng*, Bingbing Ni, Naiyuan Liu, Yifan Lu, Ziang Liu, Zhengyan Tong
 
-* equal contribution
+\* equal contribution
 
 [[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700)
 
