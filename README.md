@@ -1,4 +1,4 @@
-# RainNet: A Large-Scale Dataset for Spatial Precipitation Downscaling
+# RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling
 # Accepted by NeurIPS 2022
 Xuanhong Chen*, Kairui Feng*, Bingbing Ni, Naiyuan Liu, Yifan Lu, Ziang Liu, Zhengyan Tong
 
