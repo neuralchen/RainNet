@@ -1,13 +1,24 @@
 # RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling
 # Accepted by NeurIPS 2022
-Xuanhong Chen*, Kairui Feng*, Bingbing Ni, Naiyuan Liu, Yifan Lu, Ziang Liu, Zhengyan Tong
+Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Tong , Ziang Liu
 
-\* equal contribution
+\* Equal contribution
+\*\* Corresponding author
 
 [[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700)
 
 ## Abstract
-Spatial Precipitation Downscaling is one of the most important problems in the geo-science community. However, it still remains an unaddressed issue. Deep learning is a promising potential solution for downscaling. In order to facilitate the research on precipitation downscaling for deep learning, we present the first REAL (non-simulated) Large-Scale Spatial Precipitation Downscaling Dataset, RainNet, which contains *62,424* pairs of low-resolution and high-resolution precipitation maps for 17 years. Contrary to simulated data, this real dataset covers various types of real meteorological phenomena (e.g., Hurricane, Squall, etc.), and shows the physical characters - Temporal Misalignment, Temporal Sparse and Fluid Properties - that challenge the downscaling algorithms. In order to fully explore potential downscaling solutions, we propose an implicit physical estimation framework to learn the above characteristics. Eight metrics specifically considering the physical property of the data set are raised, while fourteen models are evaluated on the proposed dataset. Finally, we analyze the effectiveness and feasibility of these models on precipitation downscaling task. 
+AI-for-science approaches have been applied to solve scientific problems (e.g., nuclear fusion, ecology, genomics, meteorology) and have achieved highly promising results.
+Spatial precipitation downscaling is one of the most important meteorological issues and urgently requires the participation of AI.
+However, the lack of a well-organized and annotated large-scale dataset hinders the training and verification of more effective and advancing deep-learning models for precipitation downscaling.
+To alleviate these obstacles, we present the first large-scale spatial precipitation downscaling dataset named \emph{RainNet}, which contains more than $62,400$ pairs of high-quality low/high-resolution precipitation maps for over $17$ years,
+ready to help the evolution of deep learning models in precipitation downscaling.
+Specifically, the precipitation maps carefully collected in RainNet cover various meteorological phenomena (e.g., hurricane, squall), which is of great help to improve the model generalization ability.
+In addition, the map pairs in RainNet are organized in the form of image sequences ($720$ maps per month or 1 map/hour), showing complex physical properties, e.g., temporal misalignment, temporal sparse, and fluid properties.
+Two deep-learning-oriented metrics are specifically introduced to evaluate or verify the comprehensive performance of the trained model, (e.g., prediction maps reconstruction accuracy).
+To illustrate the applications of RainNet, 14 state-of-the-art models, including deep models and traditional approaches, are evaluated.
+To fully explore potential downscaling solutions, we propose an implicit physical estimation benchmark framework to learn the above characteristics.
+Extensive experiments demonstrate the value of RainNet in training and evaluating downscaling models.
 
 ## Samples in RainNet
 
