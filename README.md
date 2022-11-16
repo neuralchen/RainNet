@@ -15,6 +15,8 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 **`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
 
+**`2022-11-16`**: We are working for metric tools and annotation of events.
+
 ## Download RainNet
 
 [[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) 
