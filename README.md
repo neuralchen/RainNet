@@ -13,11 +13,11 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 ## Top News <img width=8% src="./docs/img/new.gif"/>
 
-**`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/19pWvdEHS-CEG6tW3PdxdtZ5QEymVjImc/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
+**`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
 
 ## Download RainNet
 
-[[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://neuralchen.github.io/RainNet) 
+[[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) 
 
 [[Download Via Baidu Drive] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ)
 [password: sjtu]
