@@ -34,6 +34,16 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
   ***$year$=2002~2018***
   - ***85*** HDF5 files in total;
   - ***322GB*** of hard disk space is required to extract the dataset.
+## Usage
+- Data preparation. Run the 'dataset_prepare_hdf5.py' to process the dataset into patches. In 'dataset_prepare_hdf5.py', variable 'dataset_path' sets the hdf5 file path of RainNet; 'patch_hdf5_root' sets the target path to save processed dataset.
+
+```python dataset_prepare_hdf5.py```
+
+- We provide a example dataloader (pytorch script) to read the processed dataset.
+
+```dataloader_hdf5.py```
+
+***python scripts are archived in fold 'scripts'***
 
 ## Samples in RainNet
 
