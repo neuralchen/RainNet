@@ -62,6 +62,8 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 ## Samples in RainNet
 
+[![sampleregion](/docs/img/region.png)](https://github.com/neuralchen/RainNet)
+
 ### High Resolution Precipitation Maps
 <img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 20%;" />
 <img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
