@@ -11,22 +11,6 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 [![rainnetlogo](/docs/img/2.png)](https://github.com/neuralchen/RainNet)
 
-
-
-## Samples in RainNet
-
-### High Resolution Precipitation Maps
-<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 20%;" />
-<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
-<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 20%;" />
-
-### Low Resolution Precipitation Maps
-<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 20%;" />
-<img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 20%;" />
-<img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 20%;" />
-
-
-
 ## Download RainNet
 
 [[Download Via Google Drive]](https://neuralchen.github.io/RainNet) 
@@ -50,6 +34,22 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
   ***$year$=2002~2018***
   - ***85*** HDF5 files in total;
   - ***322GB*** of hard disk space is required to extract the dataset.
+
+## Samples in RainNet
+
+### High Resolution Precipitation Maps
+<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 20%;" />
+<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
+<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 20%;" />
+
+### Low Resolution Precipitation Maps
+<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 20%;" />
+<img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 20%;" />
+<img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 20%;" />
+
+
+
+
 
 
 ## Citation
