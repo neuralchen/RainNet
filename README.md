@@ -5,7 +5,7 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 \* Equal contribution
 \*\* Corresponding author
 
-[[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700)
+[[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700) [[NeurIPS2022 Presentation]](https://drive.google.com/file/d/14phfx_h0iLJAdKv_q13cO7c9NbJGC86H/view?usp=share_link)
 
 **The official repository with Pytorch**
 
