@@ -11,11 +11,15 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 [![rainnetlogo](/docs/img/2.png)](https://github.com/neuralchen/RainNet)
 
+## Top News <img width=8% src="./docs/img/new.gif"/>
+
+**`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/19pWvdEHS-CEG6tW3PdxdtZ5QEymVjImc/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
+
 ## Download RainNet
 
-[[Download Via Google Drive]](https://neuralchen.github.io/RainNet) 
+[[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://neuralchen.github.io/RainNet) 
 
-[[Download Via Baidu Drive]](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ)
+[[Download Via Baidu Drive] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ)
 [password: sjtu]
 
 ## Resources in Zip:
@@ -34,6 +38,14 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
   ***$year$=2002~2018***
   - ***85*** HDF5 files in total;
   - ***322GB*** of hard disk space is required to extract the dataset.
+
+## Dependencies
+- python3.6+
+- pytorch1.5+
+- torchvision
+- h5py
+- numpy
+
 ## Usage
 - Data preparation. Run the 'dataset_prepare_hdf5.py' to process the dataset into patches. In 'dataset_prepare_hdf5.py', variable 'dataset_path' sets the hdf5 file path of RainNet; 'patch_hdf5_root' sets the target path to save processed dataset:
 
@@ -78,3 +90,46 @@ If you find this Dataset useful in your research, please consider citing:
 
 ## Contact
 Please concat Kairui Feng [email](kairuif@princeton.com), Xuanhong Chen [email](xuanhongchenzju@outlook.com), Naiyuan Liu [email](naiyuan.liu@student.uts.edu.au) and Yifan Lu [email](yifan_lu@sjtu.edu.cn) for questions about the dataset. 
+
+## Related Projects
+
+**Please visit ou popular face swapping project**
+
+[![logo](./docs/img/logo1.png)](https://github.com/neuralchen/SimSwap)
+
+[![title](/docs/img/results1.PNG)](https://github.com/neuralchen/SimSwap)
+
+**Please visit our high-quality style transfer project**
+
+[![logo](./docs/img/logo.png)](https://github.com/neuralchen/ASMAGAN)
+
+[![title](/docs/img/title.png)](https://github.com/neuralchen/ASMAGAN)
+
+**Please visit our AAAI2021 sketch based rendering project**
+
+[![logo](./docs/img/girl2.gif)](https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale)
+[![title](/docs/img/girl2-RGB.png)](https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale)
+
+**Please visit our high resolution face dataset VGGFace2-HQ**
+
+[![logo](./docs/img/vggface2_hq_compare.png)](https://github.com/NNNNAI/VGGFace2-HQ)
+
+Learn about our other projects 
+
+[[VGGFace2-HQ]](https://github.com/NNNNAI/VGGFace2-HQ);
+
+[[RainNet]](https://neuralchen.github.io/RainNet);
+
+[[Sketch Generation]](https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale);
+
+[[CooGAN]](https://github.com/neuralchen/CooGAN);
+
+[[Knowledge Style Transfer]](https://github.com/AceSix/Knowledge_Transfer);
+
+[[SimSwap]](https://github.com/neuralchen/SimSwap);
+
+[[ASMA-GAN]](https://github.com/neuralchen/ASMAGAN);
+
+[[SNGAN-Projection-pytorch]](https://github.com/neuralchen/SNGAN_Projection)
+
+[[Pretrained_VGG19]](https://github.com/neuralchen/Pretrained_VGG19).
