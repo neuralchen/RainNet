@@ -10,6 +10,7 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 **The official repository with Pytorch**
 
 [![rainnetlogo](/docs/img/2.png)](https://github.com/neuralchen/RainNet)
+[![universitylogo](/docs/img/university.jpg)](https://github.com/neuralchen/RainNet)
 
 ## Top News <img width=8% src="./docs/img/new.gif"/>
 
