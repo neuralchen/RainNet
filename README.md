@@ -64,15 +64,23 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 [![sampleregion](/docs/img/region.png)](https://github.com/neuralchen/RainNet)
 
-### High Resolution Precipitation Maps
-<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 20%;" />
-<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
-<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 20%;" />
 
-### Low Resolution Precipitation Maps
-<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 20%;" />
+### High Resolution Precipitation Map:
+<img src="./docs/img/HRGT_201009539_201009571.webp"  style="zoom: 10%;" />
+### Low Resolution Precipitation Map:
+<img src="./docs/img/LRGT_201009539_201009571.webp"  style="zoom: 10%;" />
+### High Resolution Precipitation Map:
+<img src="./docs/img/HRGT_201108607_201108655.webp"  style="zoom: 20%;" />
+### Low Resolution Precipitation Map:
 <img src="./docs/img/LRGT_201108607_201108655.webp"  style="zoom: 20%;" />
+### High Resolution Precipitation Map:
+<img src="./docs/img/HRGT_201109091_201109123.webp"  style="zoom: 20%;" />
+### Low Resolution Precipitation Map:
 <img src="./docs/img/LRGT_201109091_201109123.webp"  style="zoom: 20%;" />
+
+
+
+
 
 
 
