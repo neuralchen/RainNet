@@ -6,6 +6,7 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 \*\* Corresponding author
 
 [[Project Website]](https://neuralchen.github.io/RainNet) [[Paper]](https://arxiv.org/abs/2012.09700) [[NeurIPS2022 Presentation]](https://drive.google.com/file/d/14phfx_h0iLJAdKv_q13cO7c9NbJGC86H/view?usp=share_link)
+[[Supplementary Material]](https://drive.google.com/file/d/1QmLompRY0WPnF90IDqKkKjOif_DLSyJy/view?usp=sharing)
 
 **The official repository with Pytorch**
 
@@ -13,6 +14,8 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 [![universitylogo](/docs/img/university.png)](https://github.com/neuralchen/RainNet)
 
 ## Top News <img width=8% src="./docs/img/new.gif"/>
+
+**`2024-01-21`**: We provide the [[Supplementary Material]](https://drive.google.com/file/d/1QmLompRY0WPnF90IDqKkKjOif_DLSyJy/view?usp=sharing).
 
 **`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
 
