@@ -117,7 +117,7 @@ def GetLoader(hdf5_dir,
 if __name__ == "__main__":
     
 
-    dataset_path = "E:\\RainNet_Dataset\\RainNet.hdf5"
+    dataset_path = "[path to your downloaded dataset]/RainNet.hdf5"
     s_transforms = []
 
     s_transforms.append(T.RandomHorizontalFlip())
