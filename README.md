@@ -1,6 +1,6 @@
 # RainNet: A Large-Scale Imagery Dataset and Benchmark for Spatial Precipitation Downscaling
 # Accepted by NeurIPS 2022
-Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Tong , Ziang Liu
+[Xuanhong Chen*](https://scholar.google.com/citations?user=UuCqlfEAAAAJ&hl=en), [Kairui Feng*](https://scholar.google.com/citations?user=4N5hE8YAAAAJ&hl=en), Naiyuan Liu, [Bingbing Ni**](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl=en), Yifan Lu, Zhengyan Tong , Ziang Liu
 
 \* Equal contribution
 \*\* Corresponding author
