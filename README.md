@@ -15,6 +15,8 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 ## Top News <img width=8% src="./docs/img/new.gif"/>
 
+**`2024-09-08`**: We update the google drive of RainNet [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1YE9l7S6NNTCqwsaqXX607vUaLZeFRx8I/view?usp=sharing). We thank [SocialBook](https://socialbook.io/) for providing us with enough shared storage space to continue making this dataset available.
+
 **`2024-01-21`**: We provide the [[Supplementary Material]](https://drive.google.com/file/d/1QmLompRY0WPnF90IDqKkKjOif_DLSyJy/view?usp=sharing).
 
 **`2022-11-16`**: The download links are now avaliable: [[Google Driver] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) [[Baidu Driver] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ) [Password: sjtu].
