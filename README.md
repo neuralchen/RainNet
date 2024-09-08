@@ -25,7 +25,7 @@ Xuanhong Chen*, Kairui Feng*, Naiyuan Liu, Bingbing Ni**, Yifan Lu, Zhengyan Ton
 
 ## Download RainNet
 
-[[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view?usp=sharing) 
+[[Download Via Google Drive] RainNet_HDF5.zip (13.6G)](https://drive.google.com/file/d/1YE9l7S6NNTCqwsaqXX607vUaLZeFRx8I/view?usp=sharing) 
 
 [[Download Via Baidu Drive] RainNet_HDF5.zip (13.6G)](https://pan.baidu.com/s/1hXa6Tr089KvBefCJIVQPuQ)
 [password: sjtu]
